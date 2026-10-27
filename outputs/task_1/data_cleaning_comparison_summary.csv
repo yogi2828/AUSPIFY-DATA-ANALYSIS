@@ -1,0 +1,10 @@
+Metric,Raw Dataset (Dataset.csv),Cleaned Dataset (netflix_cleaned.csv)
+Total Records (Rows),"8,790","8,787"
+Total Features (Columns),10,16
+Duplicate Records Removed,0 (Identified: 3),3
+Missing Values in Director,"2,588 (Not Given)","2,587 (Preserved/Documented)"
+Missing Values in Country,287 (Not Given),287 (Preserved/Documented)
+Unparseable Dates,N/A (Raw string),0 (100% Parsed)
+Valid Date Added Range,Unparsed Strings,2008-01-01 to 2021-09-25
+Release Year Range,1925 - 2021,1925 - 2021
+Memory Footprint (KB),4781.26 KB,6128.73 KB
